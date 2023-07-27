@@ -1,0 +1,20 @@
+{
+  "name": "web-crypto",
+  "version": "0.0.1",
+  "description": "Simple, universal and typesafe crypto library for Node.js and browsers",
+  "keywords": [
+    "typescript",
+    "library"
+  ],
+  "homepage": "https://github.com/Myshkouski/web-crypto",
+  "bugs": "https://github.com/Myshkouski/web-crypto/issues",
+  "author": "Alexei Myshkouski <alexeimyshkouski@gmail.com>",
+  "repository": "Myshkouski/web-crypto",
+  "type": "module",
+  "exports": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
