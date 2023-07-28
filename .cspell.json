@@ -2,13 +2,7 @@
   "version": "0.2",
   "language": "en",
   "words": [
-    "degit",
-    "esbuild",
-    "gjuchault",
-    "octocat",
-    "rmrf",
-    "socio",
-    "ryansonshine"
+    "uncrypto"
   ],
   "flagWords": [],
   "ignorePaths": [
