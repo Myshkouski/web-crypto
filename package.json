@@ -1,6 +1,6 @@
 {
   "name": "@myshkouski/web-crypto",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple, universal and typesafe crypto library for Node.js and browsers",
   "keywords": [
     "typescript",
