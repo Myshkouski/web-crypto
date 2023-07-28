@@ -18,8 +18,7 @@
     "access": "public"
   },
   "engines": {
-    "node": "^16.20.1",
-    "npm": "^9.5.1"
+    "node": ">=19"
   },
   "scripts": {
     "setup": "tsx ./scripts/setup.ts",
